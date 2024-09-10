@@ -10,9 +10,7 @@ This script extracts candidate data from a remote URL, filters it based on 3 fil
 
 ## Setup
 
-1. **Extract the ZIP File**:
-
-   Unzip the provided file to a directory of your choice.
+1. **Clone Repository**
 
 2. **Set Mongo Enviroment variables**:
     export MONGO_USER="user"
